@@ -10,6 +10,15 @@ git add . (or) git add -A => it adds all the changes
 
 git commit -m => it commits all the data [-m => message]
 
+#config
+git config --global user.email 'xyz@gmail.com'
+
+git config --global user.name 'xyz'
+
+git commit -m "Test" --amend => Means it commits to the previous version
+
+git log => It shows all the versions
+
 
 
 

@@ -2,4 +2,4 @@ console.log("Hey!");
 
 console.log("I like Burgirrr!");
 
-console.logt("Version 1")
+console.logt("Version 2")
