@@ -7,3 +7,13 @@ git add index.js - it add index.js alone
 git add src - it add all of the folders including the sub folders
 
 git add . (or) git add -A => it adds all the changes 
+
+git commit -m => it commits all the data [-m => message]
+
+
+
+
+
+
+
+
