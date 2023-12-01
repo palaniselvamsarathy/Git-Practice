@@ -19,7 +19,7 @@ git commit -m "Test" --amend => Means it commits to the previous version
 
 git log => It shows all the versions
 
-
+git reset && git checkout -- => rseset or discards the changes
 
 
 
